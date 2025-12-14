@@ -1,0 +1,40 @@
+[
+  {
+    "username": "nikhil singh",
+    "password": "password123",
+    "following": [
+      "nikhil",
+      "aman singh",
+      "prateek singh"
+    ],
+    "followers": [
+      "aman singh",
+      "prateek singh"
+    ]
+  },
+  {
+    "username": "aman singh",
+    "password": "password234",
+    "following": [
+      "nikhil singh",
+      "nikhil"
+    ],
+    "followers": [
+      "nikhil singh",
+      "prateek singh"
+    ]
+  },
+  {
+    "username": "prateek singh",
+    "password": "password345",
+    "following": [
+      "nikhil",
+      "nikhil singh",
+      "aman singh",
+      "user2"
+    ],
+    "followers": [
+      "nikhil singh"
+    ]
+  }
+]

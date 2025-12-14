@@ -1,0 +1,142 @@
+
+.profile-page {
+  background: #fafafa;
+  min-height: 100vh;
+  padding: 30px 0;
+}
+
+.profile-container {
+  width: 600px;
+  margin: auto;
+  background: #ffffff;
+  border: 1px solid #dbdbdb;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.logout-container {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.logout-btn {
+  width: 100%;
+  padding: 12px;
+  background-color: #ed4956;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.logout-btn:hover {
+  background-color: #c82333;
+}
+
+.profile-username {
+  font-size: 26px;
+  font-weight: 600;
+  color: #262626;
+  margin-bottom: 10px;
+}
+
+.Follower-Count{
+  
+  display: flex;
+  gap: 20px;
+  font-size: 14px;
+  color: #262626;
+  margin-bottom: 20px;
+}
+
+.feed-btn {
+  background: #0095f6;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  margin-bottom: 25px;
+  margin-top: 9px;
+}
+
+.feed-btn:hover {
+  background: #1877f2;
+}
+
+.create-post {
+  border-top: 1px solid #dbdbdb;
+  padding-top: 20px;
+  margin-bottom: 25px;
+}
+
+.create-post h3 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.create-post input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #dbdbdb;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  outline: none;
+}
+
+.post-btn {
+  background: #0095f6;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.post-btn:hover {
+  background: #1877f2;
+}
+
+
+.people-section {
+  border-top: 1px solid #dbdbdb;
+  padding-top: 20px;
+  margin-bottom: 25px;
+}
+
+.user-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.follow-btn {
+  background: #0095f6;
+  color: white;
+  border: none;
+  padding: 5px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.unfollow-btn {
+  background: #efefef;
+  color: #262626;
+  border: none;
+  padding: 5px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.profile-posts {
+  border-top: 1px solid #dbdbdb;
+  padding-top: 20px;
+}

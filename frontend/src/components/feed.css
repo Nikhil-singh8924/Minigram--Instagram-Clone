@@ -1,0 +1,32 @@
+.feed-container {
+  width: 600px;
+  margin: 20px auto;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial;
+}
+
+.feed-title {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 600;
+  color: #262626;
+  margin-bottom: 20px;
+}
+
+
+.profile-btn {
+  display: block;
+  margin: 0 auto 25px 0;
+  padding: 8px 18px;
+  background-color: #0095f6;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  
+}
+
+.profile-btn:hover {
+  background-color: #1877f2;
+}

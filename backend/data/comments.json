@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "postId": 1,
+    "username": "nikhil",
+    "comment": "Great post!",
+    "createdAt": "2025-12-14T07:21:25.616Z"
+  },
+  {
+    "id": 2,
+    "postId": 1,
+    "username": "nikhil singh",
+    "comment": "nice post",
+    "createdAt": "2025-12-14T08:11:33.230Z"
+  },
+  {
+    "id": 3,
+    "postId": 2,
+    "username": "nikhil singh",
+    "comment": "testing..",
+    "createdAt": "2025-12-14T08:32:27.908Z"
+  },
+  {
+    "id": 4,
+    "postId": 1765703329484,
+    "username": "nikhil singh",
+    "comment": "looks delicious",
+    "createdAt": "2025-12-14T09:09:04.981Z"
+  },
+  {
+    "id": 5,
+    "postId": 1765703374469,
+    "username": "nikhil singh",
+    "comment": "looks good",
+    "createdAt": "2025-12-14T09:09:41.707Z"
+  },
+  {
+    "id": 6,
+    "postId": 1765703728114,
+    "username": "prateek singh",
+    "comment": "good",
+    "createdAt": "2025-12-14T09:38:05.108Z"
+  },
+  {
+    "id": 7,
+    "postId": 1765703728114,
+    "username": "nikhil singh",
+    "comment": "nice one",
+    "createdAt": "2025-12-14T13:38:34.616Z"
+  }
+]
